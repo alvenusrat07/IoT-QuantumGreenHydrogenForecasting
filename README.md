@@ -1,6 +1,3 @@
 # IoT-QuantumGreenHydrogenForecasting
-  
-Our group members:
-- [Natalia]
-- [khan]
-- [Alve]
+Get the Project details on 
+[project page](https://zubair1811.github.io/IoT-Project/).
